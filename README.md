@@ -1,2 +1,2 @@
-# Facial Recognition Attendance System.
+# Facial Recognition Attendance System
 Project currently in progress through the AI4ALL Ignite Accelerator. The project aims to develop a computer vision-based system for automated attendance recording in educational or corporate settings. This system seeks to streamline attendance processes, reduce time consumption, and minimize human error associated with traditional attendance methods. It can also be used at scale and does not require a physical ID that users can misplace or replicate.
